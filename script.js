@@ -6,3 +6,7 @@ if(n === 2500){
 } else if(n === 10000) {
     alert("The loop is done!");
 }
+
+for(let i = 1000; i >= 0; i--) {
+    
+}
