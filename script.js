@@ -26,3 +26,4 @@ const favoriteShow4 = [4 , "Dead to Me"];
 console.log("My #" + favoriteShow4[0] + " favorite tv show is " + favoriteShow4[1]);
 
 const favoriteShow5 = [5 , "Euphoria"];
+console.log("My #" + favoriteShow5[0] + " favorite tv show is " + favoriteShow[1]);
