@@ -14,3 +14,4 @@ for(let i = 1000; i >= 0; i--) {
 }
 
 const favoriteShow1 = [1, "New Girl"];
+console.log("My #" + favoriteShow1[0] + " favorite tv show is " +  favoriteShow1[1]);
