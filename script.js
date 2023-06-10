@@ -8,5 +8,7 @@ if(n === 2500){
 }
 
 for(let i = 1000; i >= 0; i--) {
-    
+    if(i % 2 == 0) {
+        console.log(i);
+    }
 }
