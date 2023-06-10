@@ -20,3 +20,5 @@ const favoriteShow2 = [2 , "Shameless"];
 console.log("My #" + favoriteShow2[0] + " favorite tv show is " + favoriteShow2[1]);
 
 const favoriteShow3 = [3 , "BEEF"];
+console.log("My #" + favoriteShow3[0] + " favorite tv show is " + favoriteShow3[1]);
+
