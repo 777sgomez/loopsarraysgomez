@@ -4,5 +4,5 @@ if(n === 2500){
 } else if(n === 5000) {
     alert("Halfway there!");
 } else if(n === 10000) {
-    
+    alert("The loop is done!");
 }
