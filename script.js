@@ -17,3 +17,4 @@ const favoriteShow1 = [1 , "New Girl"];
 console.log("My #" + favoriteShow1[0] + " favorite tv show is " +  favoriteShow1[1]);
 
 const favoriteShow2 = [2 , "Shameless"];
+console.log("My #" + favoriteShow2[0] + " favorite tv show is " + favoriteShow2[1]);
